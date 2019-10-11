@@ -1,0 +1,13 @@
+C:\Users\sibusiso\source\repos\Self-Practice\bin\Debug\netcoreapp2.1\Self-Practice.deps.json
+C:\Users\sibusiso\source\repos\Self-Practice\bin\Debug\netcoreapp2.1\Self-Practice.runtimeconfig.json
+C:\Users\sibusiso\source\repos\Self-Practice\bin\Debug\netcoreapp2.1\Self-Practice.runtimeconfig.dev.json
+C:\Users\sibusiso\source\repos\Self-Practice\bin\Debug\netcoreapp2.1\Self-Practice.dll
+C:\Users\sibusiso\source\repos\Self-Practice\bin\Debug\netcoreapp2.1\Self-Practice.pdb
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.csproj.CoreCompileInputs.cache
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.AssemblyInfoInputs.cache
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.AssemblyInfo.cs
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.dll
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.pdb
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.csprojAssemblyReference.cache
+C:\Users\sibusiso\source\repos\Self-Practice\bin\Debug\netcoreapp2.1\TicTacToeRendererLib.dll
+C:\Users\sibusiso\source\repos\Self-Practice\obj\Debug\netcoreapp2.1\Self-Practice.csproj.CopyComplete
